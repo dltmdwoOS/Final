@@ -27,5 +27,4 @@ joblib : 1.2.0
 
 ## 4. Contact information for the distributor or author
 ### 연락처
-프로젝트와 관련된 문의나 버그 리포트, 기여에 대한 연락처 정보를 제공하세요.
 - 이메일: coex03@cau.ac.kr
