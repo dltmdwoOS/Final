@@ -5,10 +5,10 @@
 python : 3.11.4
 
 ### 사용한 라이브러리
-numpy : 1.24.3
-scikit-learn : 1.3.0
-scikit-image : 0.20.0
-matplotlib : 3.7.1
+numpy : 1.24.3  
+scikit-learn : 1.3.0  
+scikit-image : 0.20.0  
+matplotlib : 3.7.1  
 joblib : 1.2.0
 
 ## 2. Operating instructions
